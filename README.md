@@ -1,2 +1,2 @@
-# ai-ml-playground
-Learn AI and ML | Hands-On Projects
+# AI-ML-Playground - Beginner-Friendly AI & ML Projects
+### Learn AI and ML | Hands-On Projects

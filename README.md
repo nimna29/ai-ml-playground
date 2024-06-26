@@ -49,6 +49,8 @@ Each project is designed to provide a practical, real-world application of AI an
 
 ### Get Started
 
-🔥 Ready to start your AI and ML journey? Check out the list of projects and pick one that excites you. Happy coding! 😎
+🔥 Ready to start your AI and ML journey? 👊
+<br>
+👆 Check out the list of projects and pick one that excites you. Happy coding! 😎
 
 ---

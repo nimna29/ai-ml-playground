@@ -4,7 +4,7 @@
 
 Welcome to the AI-ML-Playground repository! This space is dedicated to helping beginners dive into Artificial Intelligence and Machine Learning through hands-on projects.
 
-<img width="620" align="center" alt="image" src="https://github.com/nimna29/ai-ml-playground/assets/77341013/f381aeaf-03e0-49b1-a820-9058acfbaaba">
+<img width="720" align="center" alt="image" src="https://github.com/nimna29/ai-ml-playground/assets/77341013/f381aeaf-03e0-49b1-a820-9058acfbaaba">
 
 ## What You'll Find Here
 

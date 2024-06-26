@@ -54,3 +54,8 @@ Each project is designed to provide a practical, real-world application of AI an
 👆 Check out the list of projects and pick one that excites you. Happy coding! 😎
 
 ---
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&weight=400&size=26&color=1091F7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Just+started;+Projects+coming+soon!;" />
+</h3>
+
+---

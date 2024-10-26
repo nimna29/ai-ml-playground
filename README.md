@@ -2,9 +2,9 @@
 
 ### Learn AI and ML | Hands-On Projects
 
-Welcome to the AI-ML-Playground repository! This space is dedicated to helping beginners dive into Artificial Intelligence and Machine Learning through hands-on projects.
+Welcome to the AI-ML-Playground repository! This space is dedicated to helping beginners dive into Artificial Intelligence and Machine Learning through hands-on projects. [Get Started with the Project List](#get-started)
 
-<img width="720" align="center" alt="image" src="https://github.com/nimna29/ai-ml-playground/assets/77341013/f381aeaf-03e0-49b1-a820-9058acfbaaba">
+<img width="640" align="center" alt="image" src="https://github.com/nimna29/ai-ml-playground/assets/77341013/f381aeaf-03e0-49b1-a820-9058acfbaaba">
 
 ## What You'll Find Here
 
@@ -12,7 +12,7 @@ In this repository, you will find a collection of beginner-friendly AI and ML pr
 
 ### What's Included
 
-1. **Project Folders**: Each project has a folder containing all the necessary files and resources.
+1. **Project Folders**: Each project has a repository containing all the necessary files and resources.
 2. **YouTube Tutorials**: Every project is accompanied by a detailed YouTube tutorial that guides you through the entire process, from start to finish.
 3. **ML Model Development Life Cycle**: For each project, you'll follow the complete ML model development life cycle, including:
    - Problem Definition
@@ -35,17 +35,10 @@ Each project is designed to provide a practical, real-world application of AI an
 
 ### How to Use This Repository
 
-1. **Clone the Repository**: Start by cloning this repository to your local machine.
-    ```bash
-    git clone https://github.com/nimna29/ai-ml-playground.git
-    ```
-2. **Navigate to a Project Folder**: Choose a project you're interested in and navigate to its folder.
-    ```bash
-    cd ai-ml-playground/Project-Name
-    ```
-3. **Follow the YouTube Tutorial**: Open the YouTube tutorial linked in the project's README file and follow along.
-4. **Run the Code**: Execute the code in your local environment, following the instructions in the tutorial and README file.
-5. **Experiment and Learn**: Modify the code, experiment with different approaches, and learn by doing!
+1. **Select the Project**: Choose a project you are interested in from the table. It will redirect you to the correct repository.
+2. **Follow the YouTube Tutorial**: Open the YouTube tutorial linked in the project's README file and follow along.
+3. **Run the Code**: Execute the code in your local environment, following the instructions in the tutorial and README file.
+4. **Experiment and Learn**: Modify the code, experiment with different approaches, and learn by doing!
 
 ### Get Started
 
@@ -54,8 +47,13 @@ Each project is designed to provide a practical, real-world application of AI an
 👆 Check out the list of projects and pick one that excites you. Happy coding! 😎
 
 ---
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&weight=400&size=26&color=1091F7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Just+started;+Projects+coming+soon!;" />
-</h3>
+| Project Name                       | Difficulty | Description                           | Repository Link                                       | YouTube Tutorial                                       |
+|------------------------------------|------------|---------------------------------------|-------------------------------------------------------|--------------------------------------------------------|
+| **Chatbot with OpenAI API**        | Easy       | Simple Chatbot in your terminal       | [Repo](https://github.com/nimna29/cli-chatbot)        | [Tutorial](#)             |
+| **Piper with Python**              | Medium     | Text-to-Speech with Piper using Python| [Repo](https://github.com/nimna29/piper-with-python)  | [Tutorial](https://youtu.be/FrPVXVjaYDs)               |
+| **MalDitectist**                   | Advanced   | Malware Detection using ML and DL     | [Repo](https://github.com/nimna29/MalDitectist)       | [Tutorial](#)             |
+| **Chatbot with Gemini API**        | Easy       | Coming Soon!!!      | [Repo](#)   | [Tutorial](#)             |
+| **Custom AI Assistant**            | Advanced   | Coming Soon!!!   | [Repo](#)   | [Tutorial](#)             |
+
 
 ---

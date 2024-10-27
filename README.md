@@ -1,4 +1,4 @@
-# AI-ML-Playground - Beginner-Friendly AI & ML Project Hub
+# AI-ML-Playground: Beginner-Friendly AI & ML Project Hub
 
 ### Learn AI and ML | Hands-On Projects
 

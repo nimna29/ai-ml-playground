@@ -49,7 +49,7 @@ Each project is designed to provide a practical, real-world application of AI an
 ---
 | Project Name                       | Difficulty | Description                           | Repository Link                                       | YouTube Tutorial                                       |
 |------------------------------------|------------|---------------------------------------|-------------------------------------------------------|--------------------------------------------------------|
-| **Chatbot with OpenAI API**        | Easy       | Simple Chatbot in your terminal       | [Repo](https://github.com/nimna29/cli-chatbot)        | [Tutorial](#)             |
+| **Chatbot with OpenAI API**        | Easy       | Simple Chatbot in your terminal       | [Repo](https://github.com/nimna29/cli-chatbot)        | [Tutorial](https://youtu.be/MIglNcDYDic)             |
 | **Piper with Python**              | Medium     | Text-to-Speech with Piper using Python| [Repo](https://github.com/nimna29/piper-with-python)  | [Tutorial](https://youtu.be/FrPVXVjaYDs)               |
 | **MalDitectist**                   | Advanced   | Malware Detection using ML and DL     | [Repo](https://github.com/nimna29/MalDitectist)       | [Tutorial](#)             |
 | **Chatbot with Gemini API**        | Easy       | Coming Soon!!!      | [Repo](#)   | [Tutorial](#)             |
